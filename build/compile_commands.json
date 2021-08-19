@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/Users/federicocorso/tpa/esercizi/Hashmaps/build",
+  "command": "/usr/bin/clang++  -I/Users/federicocorso/tpa/esercizi/Hashmaps/include -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++17 -o CMakeFiles/mainEntry.dir/main.cpp.o -c /Users/federicocorso/tpa/esercizi/Hashmaps/main.cpp",
+  "file": "/Users/federicocorso/tpa/esercizi/Hashmaps/main.cpp"
+},
+{
+  "directory": "/Users/federicocorso/tpa/esercizi/Hashmaps/build/tests",
+  "command": "/usr/bin/clang++  -I/Users/federicocorso/tpa/esercizi/Hashmaps/tests/../include -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++17 -o CMakeFiles/catch2Test.dir/catch2Main.cpp.o -c /Users/federicocorso/tpa/esercizi/Hashmaps/tests/catch2Main.cpp",
+  "file": "/Users/federicocorso/tpa/esercizi/Hashmaps/tests/catch2Main.cpp"
+},
+{
+  "directory": "/Users/federicocorso/tpa/esercizi/Hashmaps/build/tests",
+  "command": "/usr/bin/clang++  -I/Users/federicocorso/tpa/esercizi/Hashmaps/tests/../include -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++17 -o CMakeFiles/catch2Test.dir/TestMultiSet.cpp.o -c /Users/federicocorso/tpa/esercizi/Hashmaps/tests/TestMultiSet.cpp",
+  "file": "/Users/federicocorso/tpa/esercizi/Hashmaps/tests/TestMultiSet.cpp"
+}
+]
